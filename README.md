@@ -9,9 +9,11 @@ I am a passionate developer specializing in Python, Machine Learning, and High-P
 
 - **🧠 The Focus:** I am currently specializing in Python & Machine Learning, focusing on data-driven decision-making and predictive modeling.
 
-- **⚡ Performance-Driven:** I have a strong foundation in High-Performance C++, ensuring that the solutions I build aren't just "smart," but also computationally optimized.
+- ** 🤝 Collaborative Developer:** While I have a background in C++, my current passion lies in Frontend development and Python. I’m actively looking to collaborate on open-source projects or team ventures where I can contribute to clean UI and robust backends.
 
 - **♾️ Exploring DevOps:** Currently exploring the world of CI/CD and Docker to learn how to deploy and scale software reliably.
+  
+- **⚽ Beyond the Screen:** When I'm not coding, I’m usually playing football, editing videos, or gaming .
 ---
 ## My Projects so far
 | Project | Description |
