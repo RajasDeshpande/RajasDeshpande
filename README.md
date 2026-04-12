@@ -49,6 +49,17 @@ I am a passionate developer specializing in Python, Machine Learning, and High-P
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 🏆 Certifications & Achievements
+
+- 🎓 **Artificial Intelligence & Machine Learning Certification**  
+  *Bhartiya Skill Development University, Jaipur*
+
+- 💻 **HackerRank Certified**
+  
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your-username)
+
+---
+  
 
 ## 📬 Let’s Connect
 
