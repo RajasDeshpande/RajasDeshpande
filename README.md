@@ -16,7 +16,7 @@ I am a passionate developer specializing in Python, Machine Learning, and High-P
 ## My Projects so far
 | Project | Description |
 |--------|-------------|
-| [**KickVerse**](https://rajasdeshpande.github.io/SkillMicroProject/) | A website made using HTML and CSS as a part of a college assignment. |
+| [**KickVerse**](https://github.com/RajasDeshpande/Kickverse) | A website made using HTML and CSS as a part of a college assignment. |
 
 ---
 
