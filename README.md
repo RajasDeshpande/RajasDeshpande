@@ -15,6 +15,11 @@ I am a passionate developer specializing in Python, Machine Learning, and High-P
   
 - **⚽ Beyond the Screen:** When I'm not coding, I’m usually playing football, editing videos, or gaming .
 ---
+## 🔭 Currently Working On
+- Building ML models for real-world datasets  
+- Learning Docker & CI/CD pipelines  
+- Exploring full-stack development with React & Node.js  
+---
 ## My Projects so far
 | Project | Description |
 |--------|-------------|
