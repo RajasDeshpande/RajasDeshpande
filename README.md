@@ -56,7 +56,7 @@ I am a passionate developer specializing in Python, Machine Learning, and High-P
 
 - 💻 **HackerRank Certified**
   
-  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/your-username)
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rajasmd_2008)
 
 ---
   
