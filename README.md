@@ -49,6 +49,7 @@ I am a passionate developer specializing in Python, Machine Learning, and High-P
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
 ## 📬 Let’s Connect
 
   
@@ -56,4 +57,8 @@ I am a passionate developer specializing in Python, Machine Learning, and High-P
 - 💻 [GitHub](https://github.com/RajasDeshpande)  
 - 📧 rajas.deshpande@mitwpu.edu.in  
 
+---
+
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=RajasDeshpande&theme=dark)](https://git.io/streak-stats)
 ---
