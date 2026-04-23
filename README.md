@@ -24,7 +24,7 @@ I am a passionate developer specializing in Python, Machine Learning, and High-P
 | Project | Description |
 |--------|-------------|
 | [**KickVerse**](https://github.com/RajasDeshpande/Kickverse) | A website made using HTML and CSS as a part of a college assignment. |
-
+| [**ScreenSense**](https://github.com/RajasDeshpande/ScreenSense) | A Model used to predict smartphone addiction. |
 ---
 
 ## 🛠️ My Toolkit
