@@ -25,6 +25,7 @@ I am a passionate developer specializing in Python, Machine Learning, and High-P
 |--------|-------------|
 | [**KickVerse**](https://github.com/RajasDeshpande/Kickverse) | A website made using HTML and CSS as a part of a college assignment. |
 | [**ScreenSense**](https://github.com/RajasDeshpande/ScreenSense) | A Model used to predict smartphone addiction. |
+| [**TableTalk**](https://github.com/RajasDeshpande/CafeMgmtApp) | A real-time cafe management system that simplifies ordering for customers and provides staff with a powerful, live control center for total menu management. |
 ---
 
 ## 🛠️ My Toolkit
