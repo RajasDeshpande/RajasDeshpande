@@ -5,7 +5,7 @@ I am a passionate developer specializing in Python, Machine Learning, and High-P
 --- 
 ---
 👨‍💻 About Me
-- **🎓 The Academic Path:** I am a 2nd-year Computer Science Engineering student at MIT World Peace University. My journey is fueled by a deep interest in how hardware-level efficiency meets high-level intelligence.
+- **🎓 The Academic Path:** I am a 3rd-year Computer Science Engineering student at MIT World Peace University. My journey is fueled by a deep interest in how hardware-level efficiency meets high-level intelligence.
 
 - **🧠 The Focus:** I am currently specializing in Python & Machine Learning, focusing on data-driven decision-making and predictive modeling.
 
