@@ -23,9 +23,13 @@ I am a passionate developer specializing in Python, Machine Learning, and High-P
 ## My Projects so far
 | Project | Description |
 |--------|-------------|
+| [**SkyGuardAI**](https://github.com/RajasDeshpande/SkyGuardAI) | AI/ML-Based Intelligent Anomaly Detection for Automatic Weather Stations (AWS) Official Submission of SIH 2026 |
+| [**UdyogSetu**](https://github.com/RajasDeshpande/UdyogSetu) |Efficiency in streamlining industrial approvals,compliance processes,and access to government support services Official Submission of SIH 2026 |
+| [**VirtualTerrainAnalysis**](https://github.com/RajasDeshpande/VirtualTerrainAnalysis) |A project made using WebXR technologies for analyzing real time satellite terrain using VR Glasses|
+| [**TableTalk**](https://github.com/RajasDeshpande/CafeMgmtApp) | A real-time cafe management system that simplifies ordering for customers and provides staff with a powerful, live control center for total menu management. |
 | [**KickVerse**](https://github.com/RajasDeshpande/Kickverse) | A website made using HTML and CSS as a part of a college assignment. |
 | [**ScreenSense**](https://github.com/RajasDeshpande/ScreenSense) | A Model used to predict smartphone addiction. |
-| [**TableTalk**](https://github.com/RajasDeshpande/CafeMgmtApp) | A real-time cafe management system that simplifies ordering for customers and provides staff with a powerful, live control center for total menu management. |
+
 ---
 
 ## 🛠️ My Toolkit
